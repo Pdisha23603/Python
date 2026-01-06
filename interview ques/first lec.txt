@@ -1,0 +1,24 @@
+how does python manage variable memory
+what are python build-in datatype
+diff bet mutable and immutable
+what is type casting or type convertion in python (implicit,explicite)
+diff bet == , ===
+and / , //
+and type and id() function
+handle dynamic typing
+
+conditional statment
+if elif 
+is there a way to write a single line if statement in python? yes uding termary statment
+loop
+for loop
+range function
+diff for and while
+diff bet break continue pass [pass is a placeholder for future]
+can you use an else clause with loop? [if you use with break then else block is skip]
+how do we iterate through a dictionary?
+
+basic interview que
+what is Python
+diff bet python2 and 3
+what are ternary operator
