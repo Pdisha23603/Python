@@ -1,0 +1,1 @@
+# Convert Binary to Decimal(Use int()) e.g input - 11011 and output - 27

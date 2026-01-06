@@ -1,0 +1,2 @@
+# Print Arithmatic Progesstion Series 
+
