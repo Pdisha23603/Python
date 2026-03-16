@@ -1,0 +1,7 @@
+Mode	Meaning
+"r"	Read
+"w"	Write (overwrite)
+"a"	Append
+"r+"	Read + Write
+"rb"	Read binary
+"wb"	Write binary
