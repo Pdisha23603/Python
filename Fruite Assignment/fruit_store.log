@@ -1,0 +1,4 @@
+2026-05-04 12:15:46 | INFO | APPLICATION | Fruit Market started
+2026-05-04 12:15:54 | INFO | NAVIGATE | Role selected: Manager
+2026-05-04 12:16:11 | INFO | ADD | Apple | qty=2 | price=120.0 | (new item added)
+2026-05-04 12:16:17 | INFO | NAVIGATE | Manager chose to return to main menu
